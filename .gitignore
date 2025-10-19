@@ -1,0 +1,19 @@
+# Node
+node_modules/
+*.log
+
+# Android
+**/build/
+.gradle/
+local.properties
+
+# Expo
+.expo/
+.expo-shared/
+
+# Python
+__pycache__/
+
+# Misc
+.DS_Store
+.idea/

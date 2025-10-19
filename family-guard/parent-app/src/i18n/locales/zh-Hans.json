@@ -1,0 +1,77 @@
+{
+  "app": {
+    "title": "家庭守护",
+    "loading": "加载中…",
+    "consentTitle": "监护人同意",
+    "consentBody": "家庭守护仅汇总应用使用时长与次数，不采集聊天内容、屏幕信息、联系人或精确定位。",
+    "consentAgree": "我已了解并同意"
+  },
+  "auth": {
+    "title": "登录",
+    "email": "邮箱",
+    "password": "密码",
+    "signIn": "登录",
+    "sendMagic": "发送魔法链接",
+    "magicSent": "已发送魔法链接，请查收邮箱。",
+    "error": "登录失败"
+  },
+  "pair": {
+    "title": "绑定儿童设备",
+    "description": "生成绑定码并在孩子的安卓设备上输入，即可完成绑定。",
+    "generate": "生成绑定码",
+    "code": "绑定码",
+    "copy": "复制",
+    "pasteInstructions": "请在儿童端输入该绑定码",
+    "bind": "立即绑定",
+    "deviceId": "设备 ID",
+    "status": "状态",
+    "paired": "已绑定",
+    "childName": "孩子昵称",
+    "submit": "提交",
+    "success": "设备绑定成功"
+  },
+  "dashboard": {
+    "title": "看板",
+    "range": "时间范围",
+    "totalTime": "总时长",
+    "nightTime": "夜间使用",
+    "risk": "风险指数",
+    "signals": "关键信号",
+    "tips": "AI 沟通建议",
+    "gentle": "柔和",
+    "neutral": "适中",
+    "strong": "坚定",
+    "why": "生成原因",
+    "empty": "暂时没有数据，稍后再来看看。",
+    "liveAlerts": "实时提醒"
+  },
+  "settings": {
+    "title": "设置",
+    "language": "语言",
+    "followSystem": "跟随系统",
+    "export": "导出数据",
+    "delete": "删除数据",
+    "confirmDelete": "此操作将彻底删除汇总历史，是否继续？",
+    "confirmExport": "系统会生成压缩包并发送到您的邮箱。",
+    "logout": "退出登录",
+    "notifications": "推送通知",
+    "consent": "隐私与同意"
+  },
+  "common": {
+    "cancel": "取消",
+    "confirm": "确认",
+    "ok": "好的",
+    "minutes": "分钟",
+    "hours": "小时",
+    "lastUpdated": "上次更新 {{time}}",
+    "retry": "重试"
+  },
+  "anomalies": {
+    "perm_revoked": "权限被撤销",
+    "uninstall_attempt": "尝试卸载",
+    "heartbeat_timeout": "心跳中断",
+    "dns_changed": "DNS 已变更",
+    "boot": "设备已重启",
+    "app_killed": "应用被结束"
+  }
+}
