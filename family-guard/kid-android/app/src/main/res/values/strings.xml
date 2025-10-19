@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Family Guard Kid</string>
+    <string name="notification_channel_name">Usage heartbeat</string>
+    <string name="notification_channel_description">Continuous monitoring heartbeat for Family Guard</string>
+    <string name="notification_title">Family Guard is protecting usage stats</string>
+    <string name="notification_body">App usage aggregation is active.</string>
+    <string name="device_admin_enabled">Device admin enabled</string>
+    <string name="device_admin_disabled">Device admin disabled</string>
+    <string name="error_empty_code">Please enter a pairing code</string>
+    <string name="pair_success">Device paired successfully</string>
+    <string name="status_running">Status: services running</string>
+    <string name="status_paired">Status: paired and reporting</string>
+</resources>

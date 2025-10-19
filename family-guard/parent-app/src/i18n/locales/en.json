@@ -1,0 +1,77 @@
+{
+  "app": {
+    "title": "Family Guard",
+    "loading": "Loading...",
+    "consentTitle": "Parental Consent",
+    "consentBody": "Family Guard collects only aggregated app usage statistics. It never captures messages, screen content, contacts, or precise location.",
+    "consentAgree": "I understand and agree"
+  },
+  "auth": {
+    "title": "Sign in",
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Sign In",
+    "sendMagic": "Send Magic Link",
+    "magicSent": "Magic link sent. Please check your inbox.",
+    "error": "Unable to sign in"
+  },
+  "pair": {
+    "title": "Pair Child Device",
+    "description": "Generate a pairing code and enter it on your child's Android device to bind it to this account.",
+    "generate": "Generate Code",
+    "code": "Pairing Code",
+    "copy": "Copy",
+    "pasteInstructions": "Enter this code on the child device",
+    "bind": "Bind Device",
+    "deviceId": "Device ID",
+    "status": "Status",
+    "paired": "Paired",
+    "childName": "Child name",
+    "submit": "Submit",
+    "success": "Device paired successfully"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "range": "Range",
+    "totalTime": "Total time",
+    "nightTime": "Night usage",
+    "risk": "Risk index",
+    "signals": "Top signals",
+    "tips": "AI conversation tips",
+    "gentle": "Gentle",
+    "neutral": "Neutral",
+    "strong": "Strong",
+    "why": "Why this advice",
+    "empty": "No data yet. Usage will appear soon.",
+    "liveAlerts": "Live alerts"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "followSystem": "Follow system",
+    "export": "Export data",
+    "delete": "Delete data",
+    "confirmDelete": "This will permanently delete aggregated history. Continue?",
+    "confirmExport": "A downloadable archive will be prepared and sent to your email.",
+    "logout": "Sign out",
+    "notifications": "Push notifications",
+    "consent": "Privacy & consent"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "ok": "OK",
+    "minutes": "minutes",
+    "hours": "hours",
+    "lastUpdated": "Last updated {{time}}",
+    "retry": "Retry"
+  },
+  "anomalies": {
+    "perm_revoked": "Permission revoked",
+    "uninstall_attempt": "Uninstall attempt",
+    "heartbeat_timeout": "Heartbeat timeout",
+    "dns_changed": "DNS changed",
+    "boot": "Device restarted",
+    "app_killed": "App killed"
+  }
+}
